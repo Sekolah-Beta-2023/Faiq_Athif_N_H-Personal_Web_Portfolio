@@ -8,3 +8,5 @@ Website ini adalah remake dari personal web portfolio saya sebelumnya yaitu http
 Berbeda dari website sebelumnya, website kali ini memiliki blog sendiri yang dibangun dengan CRUD.
 
 Dalam website ini juga telah diimplementasikan CRUD, untuk fitur Update dan Delete sampai saat ini masih sedikit bermasalah.
+
+Untuk membuka bagian admin, tambahkan /admin. Saat ini authentication admin masih dalam proses.
