@@ -6,7 +6,7 @@ Website ini adalah remake dari personal web portfolio saya sebelumnya yaitu http
 
 ## Tech Stack
 
-1. Frontend : Nuxt 2, Bootstrap 5
+1. Frontend : Nuxt 2, Bootstrap 5, Vue Bootstrap
 2. Backend : Supabase
 
 ## Features
