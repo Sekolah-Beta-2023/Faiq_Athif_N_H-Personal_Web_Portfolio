@@ -14,7 +14,7 @@ Website ini adalah remake dari personal web portfolio saya sebelumnya yaitu http
 1. Manajemen Artikel Blog
 2. Manajamen Portfolio
 3. ( Coming Soon! ) Searching & filtering produk 
-4. ( Coming Soon! ) Register, Login, Logout
+4. ( Coming Soon! ) Login, Logout Admin
 
 ## Contacts
 
